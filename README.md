@@ -28,8 +28,9 @@ Some merchants are facing the problem that they are experiencing a drop in succe
 
 ### 2. Analysis based on date and which combination of dimension (payment_gateway, payment_method and sub_type) has the impact.
    My result:
-   With 1 is the date original + 1
-   With 2 is the date original + 2
+   - With 1 is the date original + 1
+   
+   - With 2 is the date original + 2
 <img align="center" alt="get_analysis_based_on_date_with_dimension" src="https://github.com/haleylearn/merchant/blob/main/get_analysis_based_on_date_with_dimension.png" />
 
 

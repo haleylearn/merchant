@@ -18,3 +18,21 @@ Some merchants are facing the problem that they are experiencing a drop in succe
 1. Help merchants look back at the drop in success rate by the distribution into buckets.
 2. Analysis based on date and which combination of dimension (payment_gateway, payment_method and sub_type) has the impact.
 3. Analysis based on date, hour and which combination of dimension (payment_gateway, payment_method and sub_type) has the impact.
+
+
+### 1. Help merchants look back at the drop in success rate by the distribution into buckets.
+   My result:
+   
+<img align="center" alt="analysis_based_on_range_percent" src="https://github.com/haleylearn/merchant/blob/main/analysis_based_on_range_percent.png" />
+
+
+### 2. Analysis based on date and which combination of dimension (payment_gateway, payment_method and sub_type) has the impact.
+   My result:
+   
+<img align="center" alt="get_analysis_based_on_date_with_dimension" src="https://github.com/haleylearn/merchant/blob/main/get_analysis_based_on_date_with_dimension.png" />
+
+
+### 3. Analysis based on date, hour and which combination of dimension (payment_gateway, payment_method and sub_type) has the impact.
+   My result:
+   
+<img align="center" alt="get_analysis_based_on_hour_date_and_dimension.png" src="https://github.com/haleylearn/merchant/blob/main/get_analysis_based_on_hour_date_and_dimension.png" />

@@ -215,3 +215,4 @@ WITH get_percent_success_trans AS (
 SELECT * 
 FROM table_w_other_date_exclude_null
 ORDER BY merchant, DATE
+--up
